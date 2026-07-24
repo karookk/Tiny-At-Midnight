@@ -1,0 +1,48 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Aa]/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# BepInEx
+BepInEx/cache/
+BepInEx/LogOutput.log
+
+# Game files (do not commit)
+ShiftAtMidnight/
+*.dll
+!BepInEx/plugins/TinyAtMidnight.dll
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.swp
+*.swo
+*~
+.~*
